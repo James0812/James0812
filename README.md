@@ -16,7 +16,7 @@
 
 ## 🚀 À propos de moi
 
-Passionné par le développement web et les **architectures backend**, je suis actuellement en formation intensive à **ESGI Lyon**.
+Passionné par le développement web et les **architectures backend**, je suis actuellement en 2 ème année à **ESGI Lyon**.
 Mon parcours sportif en badminton de compétition m'a forgé une mentalité que j'applique au code :
 
 > 🎯 **Rigueur** · 🔥 **Persévérance** · 🧠 **Analyse stratégique** · 💪 **Gestion de la pression** · 🏆 **Culture du résultat**
