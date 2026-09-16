@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est James Roussel
 
-### 💻 Développeur Backend en formation · 🎓 Holberton School Dijon · 🏸 Badminton compétiteur
+### 💻 Développeur Backend en formation · 🎓 ESGI Lyon · 🏸 Badminton compétiteur
 
 📍 Rhône, France &nbsp;|&nbsp; 🎂 19 ans &nbsp;|&nbsp; 🎯 À la recherche d'une **alternance / opportunité junior**
 
